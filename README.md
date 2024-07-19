@@ -21,13 +21,6 @@
 </a>  
   
 
-<br/>  
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -44,8 +37,6 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>  
 
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
@@ -58,19 +49,9 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=ShahinIsmayilov&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
