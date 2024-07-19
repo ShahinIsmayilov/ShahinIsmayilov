@@ -53,9 +53,6 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.instagram.com/sahinn404/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=black&labelColor=&style=for-the-badge" height="45" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/shahin-ismay%C4%B1lov-5844122b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
   </a>
