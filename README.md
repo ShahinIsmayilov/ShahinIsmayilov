@@ -1,9 +1,16 @@
-<h2 align="center">Hi 👋! My name is  Shahin</h2>
+<h1 align="center">"Hello World"</h1>
+
+###
+
+<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django<br>• Databases: MySQL, SQLite<br>• Version Control: Git, GitHub<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
+
+###
+
+<h2 align="center">I code with...</h2>
 
 ###
 
 <div align="center">
-  <img height="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDIxd3hpanZqdm1vMDlkdm0xa3hwN3BpMXgwdTA0ajB5YnVldWR0ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CuuSHzuc0O166MRfjt/giphy.gif"  />
 </div>
 
 ###
@@ -11,44 +18,41 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahinIsmayilov&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=ShahinIsmayilov&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShahinIsmayilov&area=false&theme=nightowl&bg_color=White&hide_border=true&hide_title=true&custom_title=ShahinIsmayilov" height="150" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+  <img width="52" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
 </div>
 
 ###
-
-<br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="css3 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="45" alt="bootstrap logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="45" alt="django logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="45" alt="figma logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" alt="linux logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="45" alt="raspberrypi logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=unreal" height="45" alt="unrealengine logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=ai" height="45" alt="adobeillustrator logo"  />
-  <img width="30" />
-  <img src="https://skillicons.dev/icons?i=pr" height="45" alt="adobepremierepro logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahinIsmayilov&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=rose_pine&hide_border=true&order=2" height="130" alt="languages graph"  />
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShahinIsmayilov&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ShahinIsmayilov&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ShahinIsmayilov&theme=dark_lover&column=-1&row=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+<h2 align="center">You can communicate through social media.</h2>
+  
+### 
 
 <br clear="both">
 
@@ -74,8 +78,10 @@
 </div>
 
 ###
-<div align="center">
-  
-### Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puh464wzh4moi5zgpa7xwilsxu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<h2 align="center">Spotify 🎧 </h2>
+
+### 
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puh464wzh4moi5zgpa7xwilsxu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puh464wzh4moi5zgpa7xwilsxu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31puh464wzh4moi5zgpa7xwilsxu&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=53b14f&bar_color_cover=false)
 </div>
