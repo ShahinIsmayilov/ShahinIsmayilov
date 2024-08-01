@@ -6,6 +6,15 @@
 
 ###
 
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=acc.sahinn@gmail.com&logo=gmail&label=&color=d90202&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/shahin-ismay%C4%B1lov-5844122b7/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
 <h2 align="center">I code with...</h2>
 
 ###
@@ -50,16 +59,14 @@
 </div>
 
 ###
-<h2 align="center">You can communicate through social media.</h2>
+###
+<h2 align="center">Others...</h2>
   
 ### 
 
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/shahin-ismay%C4%B1lov-5844122b7/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="45" alt="linkedin logo"  />
-  </a>
   <a href="https://www.hackerrank.com/profile/sahinn404" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="45" alt="hackerrank logo"  />
   </a>
