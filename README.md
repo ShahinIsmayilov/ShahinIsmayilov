@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django<br>• Databases: MySQL, SQLite<br>• Version Control: Git, GitHub<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
+<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django, Java <br>• Databases: MySQL, SQLite<br>• Version Control: Git, GitHub<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
 
 ###
 
