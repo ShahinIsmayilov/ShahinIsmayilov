@@ -2,12 +2,11 @@
 
 ###
 
-<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django<br>• Databases: MySQL, SQLite<br>• Version Control: Git, GitHub<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
+<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django<br>• Databases: MySQL, SQLite<br>• Version Control: Git, GitHub<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=acc.sahinn@gmail.com&logo=gmail&label=&color=d90202&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/shahin-ismay%C4%B1lov-5844122b7/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
   </a>
