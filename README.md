@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django, Java <br>• Databases: MySQL, SQLite<br>• Version Control: Git, GitHub<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
+<p align="left">I'm a Junior Full Stack Web Developer with a passion for creating dynamic and responsive web applications. I enjoy tackling challenges and continuously learning new technologies to improve my skills.<br><br>🌐 Web Development Skills:<br>• Frontend: HTML, CSS, JavaScript, React<br>• Backend: Python, Django , Java<br>• Databases: MySQL, SQLite , PSQ<br>• Version Control: Git, GitHub<br>• Apple : Swift(Low)<br><br>🚀 Always Learning:<br>I'm committed to continuous improvement and staying updated with the latest industry trends. Currently, I'm focusing on mastering advanced topics in React and exploring cloud services like AWS.<br><br>📫 Let's Connect:<br>I'm open to new opportunities and collaborations. Feel free to reach out to me via email or connect with me on LinkedIn. I'm always excited to discuss new projects, share ideas, and learn from others in the tech community.</p>
 
 ###
 
@@ -26,21 +26,33 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" alt="django logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-  <img width="52" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=django" height="50" alt="django logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=swift" height="50" alt="swift logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=matlab" height="50" alt="matlab logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
+  <img width="65" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="50" alt="eclipseide logo"  />
 </div>
 
 ###
@@ -56,6 +68,9 @@
   <img src="https://streak-stats.demolab.com?user=ShahinIsmayilov&locale=en&mode=weekly&theme=rose_pine&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ShahinIsmayilov&theme=dark_lover&column=-1&row=5&margin-w=10&margin-h=10&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+###
+###
 
 ###
 ###
