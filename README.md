@@ -81,7 +81,7 @@
 <br clear="both">
 
 <div align="center">
-  <a href="https://www.hackerrank.com/profile/sahinn404" target="_blank">
+  <a href="https://www.hackerrank.com/profile/Shahin404" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=black&labelColor=&style=for-the-badge" height="45" alt="hackerrank logo"  />
   </a>
   <a href="https://dribbble.com/sahinn404" target="_blank">
